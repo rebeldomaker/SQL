@@ -44,7 +44,7 @@ The purpose of this exercise is to gain a deeper understanding and practical exp
 **Task Description:**
 1. **Explain the SQL Server concept:**
    - Define what a SQL Server is and how it works.
-   - Describe how a SQL Server uses SQL (*Structured Query Language*) to store, organize, and manipulate data.
+   - Describe how an SQL Server uses SQL (*Structured Query Language*) to store, organize, and manipulate data.
 2. **Explore the purpose of a SQL Server:**
    - Explain why a SQL Server is useful and critical in software and database operations.
    - Describe typical tasks performed by a SQL Server (e.g., data storage, management, recovery, and security).
